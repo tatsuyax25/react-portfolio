@@ -10,3 +10,11 @@
   margin-left: 10%;
   margin-right: 10%;
 }
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  color: var(--color-text);
+  z-index: 1;
+}
